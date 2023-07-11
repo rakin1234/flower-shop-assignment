@@ -1,0 +1,222 @@
+header{
+    background-color: rgba(229, 84, 115, 0.10);
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+}
+
+header > div > h1{
+    color: #272727;
+    font-family: Lato;
+    /*font-size: 80px;*/
+    font-size: 500%;
+}
+
+header > div > p {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    /*font-size: 18px;*/
+    font-size: 112%;
+}
+
+header > div > button {
+    background-color: rgba(229, 84, 115, 1);
+    border-radius: 8px;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    /*font-size: 20px;*/
+    font-size: 123%;
+}
+
+header > div > img{
+    margin-top: 10%;
+    margin-bottom: 0%;
+    width: 120%;
+    height: 94%;
+}
+
+#bonus {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#bonus > h1{
+    color: #272727;
+    font-family: Lato;
+    /*font-size: 80px;*/
+    /*font-size: 500%;*/
+}
+
+#bonus > p {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    /*font-size: 18px;*/
+    font-size: 112%;
+}
+
+#bonusPics {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+}
+
+#one {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    height: 85%;
+    width: 85%;
+}
+
+#two {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    height: 85%;
+    width: 85%;
+}
+
+#three {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+    height: 85%;
+    width: 85%;
+}
+
+figcaption {
+    color: #272727;
+    /*text-align: center;
+    font-family: Lato;
+    font-size: 24px;*/
+    text-decoration-line: underline;
+}
+
+main{
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    /*padding: 10%;*/
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+
+main > div > h1 {
+    color: #272727;
+    font-family: Lato;
+    /*font-size: 80px;*/
+    /*font-size: 500%;*/
+    margin-top: 15%;
+}
+
+main > div > h1 > span{
+    color: #E55473;
+}
+
+main > div > p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    /*font-size: 18px;*/
+    font-size: 112%;
+}
+
+main > div > button {
+    background-color: rgba(229, 84, 115, 1);
+    border-radius: 8px;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    /*font-size: 20px;*/
+    font-size: 123%;
+}
+
+main > div > img {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#inst{
+    text-align: center;
+}
+
+#inst > h1 {
+    color: #272727;
+    font-family: Lato;
+    /*font-size: 80px;*/
+    /*font-size: 500%;*/
+    margin-top: 5%;
+}
+
+#inst > p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    /*font-size: 18px;*/
+    font-size: 112%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#pics {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+
+#pics > img{
+    width: 24.5%;
+    height: 24.5%;
+}
+
+#deals{
+    background-image: url("Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 10%;
+    padding: 10%;
+    text-align: center;
+}
+
+#deals > form > input {
+    height: 60px;
+    width: 420px;
+}
+
+#deals > form > button {
+    background-color: rgba(229, 84, 115, 1);
+    border-radius: 8px;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    /*font-size: 20px;*/
+    font-size: 123%;
+}
+
+footer {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10%;
+    background-color: #111010;
+    text-align: center;
+}
+
+footer > h1 {
+    color: #FFF;
+}
+
+footer > h1 > span {
+    color: #E55473;
+}
+
+footer > p {
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    /*font-size: 18px;*/
+    font-size: 112%;
+}
+
+#cop {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    /*font-size: 18px;*/
+    font-size: 100%;
+}
